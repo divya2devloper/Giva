@@ -21,7 +21,7 @@ function Productcard() {
       
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div class="bg-gray-200 rounded-xl cursor-pointer hover:scale-[1.03] transition-all relative overflow-hidden">
+        <a href='/diamond-vintage-ring' class="bg-gray-200 rounded-xl cursor-pointer hover:scale-[1.03] transition-all relative overflow-hidden">
 
           <div class="p-6">
             {/* <div
@@ -54,7 +54,7 @@ function Productcard() {
               </svg>
               Add to cart</button>
           </div>
-        </div>
+        </a>
 
         <div class="bg-gray-200 rounded-xl cursor-pointer hover:scale-[1.03] transition-all relative overflow-hidden">
           <div class="p-6">

@@ -35,7 +35,8 @@ const Header = () => {
                         </DisclosureButton>
                         
                     </div>
-                    <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+                    <a href="/">
+                    <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start ">
                         
                         <div className="flex flex-shrink-0 items-center">
                             <img
@@ -47,6 +48,7 @@ const Header = () => {
                         
                         
                     </div>
+                    </a>
                     <div className='w-full flex justify-center max-sm:hidden'>
                     <input type="text" placeholder="search-jwellery" className='w-[50%] border-2 border-gray-300  bg-white-transparent p-2 rounded-md '/>
                     </div>
