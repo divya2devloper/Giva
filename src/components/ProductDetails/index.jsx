@@ -24,10 +24,10 @@ const ProductDetails = () => {
                                 <img src="images/ring.jpg" alt="Product2" class="w-full" />
                             </div>
                             <div class="w-24 h-20 flex items-center justify-center rounded-lg p-4 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] cursor-pointer">
-                                <img src="https://readymadeui.com/images/laptop4.webp" alt="Product2" class="w-full" />
+                                <img src="images/ring.jpg" alt="Product2" class="w-full" />
                             </div>
                             <div class="w-24 h-20 flex items-center justify-center rounded-lg p-4 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] cursor-pointer">
-                                <img src="https://readymadeui.com/images/laptop5.webp" alt="Product2" class="w-full" />
+                                <img src="images/ring.jpg" alt="Product2" class="w-full" />
                             </div>
                         </div>
                     </div>
@@ -36,22 +36,22 @@ const ProductDetails = () => {
                         <h2 class="text-2xl font-extrabold text-gray-800">Diamond Vintage Ring</h2>
 
                         <div class="flex space-x-2 mt-4">
-                            <svg class="w-5 fill-blue-600" viewBox="0 0 14 13" fill="none"
+                            <svg class="w-5 fill-black" viewBox="0 0 14 13" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M7 0L9.4687 3.60213L13.6574 4.83688L10.9944 8.29787L11.1145 12.6631L7 11.2L2.8855 12.6631L3.00556 8.29787L0.342604 4.83688L4.5313 3.60213L7 0Z" />
                             </svg>
-                            <svg class="w-5 fill-blue-600" viewBox="0 0 14 13" fill="none"
+                            <svg class="w-5 fill-black" viewBox="0 0 14 13" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M7 0L9.4687 3.60213L13.6574 4.83688L10.9944 8.29787L11.1145 12.6631L7 11.2L2.8855 12.6631L3.00556 8.29787L0.342604 4.83688L4.5313 3.60213L7 0Z" />
                             </svg>
-                            <svg class="w-5 fill-blue-600" viewBox="0 0 14 13" fill="none"
+                            <svg class="w-5 fill-black" viewBox="0 0 14 13" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M7 0L9.4687 3.60213L13.6574 4.83688L10.9944 8.29787L11.1145 12.6631L7 11.2L2.8855 12.6631L3.00556 8.29787L0.342604 4.83688L4.5313 3.60213L7 0Z" />
                             </svg>
-                            <svg class="w-5 fill-blue-600" viewBox="0 0 14 13" fill="none"
+                            <svg class="w-5 fill-black" viewBox="0 0 14 13" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M7 0L9.4687 3.60213L13.6574 4.83688L10.9944 8.29787L11.1145 12.6631L7 11.2L2.8855 12.6631L3.00556 8.29787L0.342604 4.83688L4.5313 3.60213L7 0Z" />
@@ -65,18 +65,18 @@ const ProductDetails = () => {
                         </div>
 
                         <div class="flex flex-wrap gap-4 mt-8">
-                            <p class="text-gray-800 text-3xl font-bold">$1200</p>
-                            <p class="text-gray-400 text-base"><strike>$1500</strike> <span class="text-sm ml-1">Tax included</span></p>
+                            <p class="text-gray-800 text-3xl font-bold">10,000</p>
+                            <p class="text-gray-400 text-base"><strike>15,000</strike> <span class="text-sm ml-1">Tax included</span></p>
                         </div>
 
                         <div class="flex flex-wrap gap-4 mt-8">
-                            <button type="button" class="min-w-[200px] px-4 py-3 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded">Buy now</button>
-                            <button type="button" class="min-w-[200px] px-4 py-2.5 border border-blue-600 bg-transparent hover:bg-gray-50 text-gray-800 text-sm font-semibold rounded">Add to cart</button>
+                            <button type="button" class="min-w-[200px] px-4 py-3 bg-pink-400 hover:bg-pink-700 text-white text-sm font-semibold rounded">Buy now</button>
+                            <button type="button" class="min-w-[200px] px-4 py-2.5 border border-pink-700 bg-transparent hover:bg-gray-50 text-gray-800 text-sm font-semibold rounded">Add to cart</button>
                         </div>
                     </div>
                 </div>
 
-                <div class="mt-16 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] p-6">
+                {/* <div class="mt-16 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] p-6">
                     <h3 class="text-xl font-bold text-gray-800">Product information</h3>
                     <ul class="mt-4 space-y-6 text-gray-800">
                         <li class="text-sm">TYPE <span class="ml-4 float-right">LAPTOP</span></li>
@@ -89,7 +89,7 @@ const ProductDetails = () => {
                         <li class="text-sm">DISPLAY TYPE <span class="ml-4 float-right">OLED, TOUCHSCREEN, 120 Hz</span></li>
                         <li class="text-sm">DISPLAY RESOLUTION <span class="ml-4 float-right">2880x1620</span></li>
                     </ul>
-                </div>
+                </div> */}
 
                 {/* <div class="mt-16 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] p-6">
                     <h3 class="text-xl font-bold text-gray-800">Reviews(10)</h3>

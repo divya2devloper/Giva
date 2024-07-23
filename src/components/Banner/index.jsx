@@ -1,29 +1,18 @@
 import React from 'react'
+import footerbanner from '../../../public/images/banner.jpg'
 
-import banner from '../../../public/images/banner.jpg'
-
-
-const Banner = () => {
+const Footerbanner = () => {
   return (
-    <div>
-      
-      <div class="relative font-sans before:absolute before:w-full before:h-full before:inset-0  before:z-10">
-        
-      <img src="/images/banner.jpg" alt="Banner Image" class="absolute inset-0 w-full h-full object-cover" />
-
-      <div class="min-h-[350px] relative z-50 h-full max-w-6xl mx-auto flex flex-col justify-center items-center text-center text-white p-6">
-        {/* <h2 class="sm:text-4xl text-2xl font-bold mb-6">Explore the World</h2>
-        <p class="sm:text-lg text-base text-center text-gray-200">Embark on unforgettable journeys. Book your dream vacation today!</p> */}
-
-        {/* <button
-          type="button"
-          class="mt-12 bg-transparent text-white text-base py-3 px-6 border border-white rounded-lg hover:bg-white hover:text-black transition duration-300">
-          Book Now
-        </button> */}
+    <div >
+    <div className="relative py-16  font-[sans-serif] sm:h-30 md:h-80 lg:h-80">
+      <div className="absolute inset-0">
+        <img src="../images/banner.jpg" alt="Banner" className="w-full h-full object-contain  " />
       </div>
+      
     </div>
-    </div>
+    
+  </div>
   )
 }
 
-export default Banner
+export default Footerbanner

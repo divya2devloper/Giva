@@ -7,6 +7,7 @@ import Wishlist from "../../../public/icons/wishlist.svg"
 import Hamburger from "../../../public/icons/hamburger-menu.svg"
 import Link from "next/link"
 import Categories from "../../components/Header/Categories" 
+import MobileCategories from "../../components/MobileCategories"
 function classNames(...classes) {
     return classes.filter(Boolean).join(' ')
 }
@@ -102,7 +103,7 @@ const Header = () => {
             <DisclosurePanel className="sm:hidden">
                 
                 <div className="space-y-1 px-2 pb-3 pt-2">
-                    MOBILE VIEW
+                    <MobileCategories/>
                 </div>
                 
                 

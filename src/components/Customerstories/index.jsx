@@ -7,7 +7,7 @@ const Customerstories = () => {
             <div class="max-w-4xl max-md:max-w-xl mx-auto">
                 <h2 class="text-3xl text-center font-semibold">Customer Stories</h2>
 
-                <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-3 gap-5 max-sm:justify-center text-center mt-10">
+                <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-3 gap-10 max-sm:justify-center text-center mt-10">
                     <div>
                         <img src="../images/cusimg.jpg" class="w-30 h-20 rounded-full inline-block" />
                         <div class="bg-pink-100 p-4 rounded-lg relative -mt-6">

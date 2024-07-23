@@ -17,7 +17,9 @@ function Productcard() {
     
     <div class="font-[sans-serif] py-4 mx-auto lg:max-w-6xl max-w-lg md:max-w-full">
       {/* <div class="overflow-auto  p-6  h-[calc(200vh-135px)] w-[calc(200vh-135px)]"> */}
-      <h2 class="text-3xl font-extrabold text-gray-800 mb-12">products</h2>
+      <div className='text-center pt-5'>
+      <h2 class="text-3xl font-extrabold text-gray-800  mb-12">products</h2>
+      </div>
       
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -35,7 +37,7 @@ function Productcard() {
 
             {/* <div class="w-2/3 h-[220px] overflow-hidden mx-auto aspect-w-16 aspect-h-8"> */}
             <div>
-              <img src="/images/ring.jpg" alt="Product 1" class="h-full w-full object-contain" />
+              <img src="/images/infinitynecklace.jpg" alt="Product 1" class="h-full w-full object-contain" />
             </div>
           </div>
 
@@ -69,7 +71,7 @@ function Productcard() {
 
             {/* <div class="w-2/3 h-[220px] overflow-hidden mx-auto aspect-w-16 aspect-h-8"> */}
             <div>
-              <img src="/images/chain.jpg" alt="Product 2" class="h-full w-full object-contain" />
+              <img src="/images/infinitynecklace.jpg" alt="Product 2" class="h-full w-full object-contain" />
             </div>
           </div>
 
@@ -103,7 +105,7 @@ function Productcard() {
             </div>
             {/* <div class="w-2/3 h-[220px] overflow-hidden mx-auto aspect-w-16 aspect-h-8"> */}
              <div>
-              <img src="/images/pendal.jpg" alt="Product 3" class="h-full w-full object-contain" />
+              <img src="/images/infinitynecklace.jpg" alt="Product 3" class="h-full w-full object-contain" />
             </div>
           </div>
           <div class="text-center bg-gray-100 p-6">
