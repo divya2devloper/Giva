@@ -79,12 +79,12 @@ const Header = () => {
 
                             
                             
-                        <div className="flex-col items-center">
+                        <a href='/shopingcart' className="flex-col items-center">
                             <div className='flex justify-center'>
                                 <Cart className=" w-6 h-6" />
                             </div>
                             <span className='hidden md:block'>cart</span>
-                        </div>
+                        </a>    
                         <div className="flex-col items-center justify-center ">
                             <div className='flex justify-center'>
                                 <Wishlist className=" w-6 h-6 " />

@@ -1,10 +1,11 @@
 import React from 'react'
-import Under999 from '../../components/Under999'
+import Checkout from '../../components/Checkout'
+
 
 const page = () => {
-  
+    
   return (
-    <Under999/>
+    <Checkout/>
   )
 }
 

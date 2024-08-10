@@ -17,7 +17,7 @@
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18",
     "react-modal": "^3.16.1",
-    "swiper": "^11.1.4"
+    "swiper": "^11.1.7"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
