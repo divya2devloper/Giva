@@ -163,7 +163,7 @@ const Categories = () => {
     <Menu as="div" className="relative inline-block text-left z-50">
       <div>
         <MenuButton className="inline-flex w-full justify-center gap-x-1.5  bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm underline hover:text-pink-700 hover:bg-gray-50">
-          Men’s Jwellery
+          Men’s Jewellery
           <Chevron className="-mr-1 h-5 w-5 text-gray-400" />
         </MenuButton>
       </div>
@@ -241,7 +241,7 @@ const Categories = () => {
     <Menu as="div" className="relative inline-block text-left z-50">
       <div>
         <MenuButton className="inline-flex w-full justify-center gap-x-1.5  bg-white px-3 py-2 text-sm  underline hover:text-pink-700  font-semibold text-gray-900 shadow-sm  hover:bg-gray-50">
-          Gold’s Jwellery offer!
+          Gold’s Jewellery offer!
           <Chevron className="-mr-1 h-5 w-5 text-gray-400" />
         </MenuButton>
       </div>
