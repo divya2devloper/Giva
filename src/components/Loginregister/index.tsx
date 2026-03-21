@@ -57,7 +57,7 @@ const Loginregister = () => {
                     Sign in
                   </button>
                 </div>
-                <p className="text-gray-800 text-sm !mt-8 text-center">Don't have an account? <a href="javascript:void(0);" onClick={handleToggle} className="text-pink-500 hover:underline ml-1 whitespace-nowrap font-semibold">Register here</a></p>
+                <p className="text-gray-800 text-sm !mt-8 text-center">Don’t have an account? <a href="javascript:void(0);" onClick={handleToggle} className="text-pink-500 hover:underline ml-1 whitespace-nowrap font-semibold">Register here</a></p>
               </form>
             </div>
           ) : (

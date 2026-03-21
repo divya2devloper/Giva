@@ -12,7 +12,7 @@ const Customerstories = () => {
                         <img src="../images/cusimg.jpg" class="w-30 h-20 rounded-full inline-block" />
                         <div class="bg-pink-100 p-4 rounded-lg relative -mt-6">
                             <h4 class="text-gray-800 text-lg font-bold">Virda</h4>
-                            <p class="text-sm text-gray-800 mt-1">A big shout out to you guys for improving my hubby's gifting tastes. </p>
+                            <p class="text-sm text-gray-800 mt-1">A big shout out to you guys for improving my hubby’s gifting tastes. </p>
                             <p class="text-sm text-gray-800 mt-1">Completely in love with my ring! </p>
                         </div>
                     </div>
@@ -21,7 +21,7 @@ const Customerstories = () => {
                         <img src="../images/cusimg.jpg" class="w-20 h-20 rounded-full inline-block" />
                         <div class="bg-pink-100 p-4 rounded-lg relative -mt-6">
                             <h4 class="text-gray-800 text-lg font-bold">Virda</h4>
-                            <p class="text-sm text-gray-800 mt-1">A big shout out to you guys for improving my hubby's gifting tastes. </p>
+                            <p class="text-sm text-gray-800 mt-1">A big shout out to you guys for improving my hubby’s gifting tastes. </p>
                             <p class="text-sm text-gray-800 mt-1">Completely in love with my ring! </p>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ const Customerstories = () => {
                         <img src="../images/cusimg.jpg" class="w-20 h-20 rounded-full inline-block" />
                         <div class="bg-pink-100 p-4 rounded-lg relative -mt-6">
                             <h4 class="text-gray-800 text-lg font-bold">Virda</h4>
-                            <p class="text-sm text-gray-800 mt-1">A big shout out to you guys for improving my hubby's gifting tastes. </p>
+                            <p class="text-sm text-gray-800 mt-1">A big shout out to you guys for improving my hubby’s gifting tastes. </p>
                             <p class="text-sm text-gray-800 mt-1">Completely in love with my ring! </p>
                         </div>
                     </div>
