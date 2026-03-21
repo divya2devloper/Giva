@@ -65,7 +65,7 @@ const Cards = () => {
             </div>
             <div class="text-center mt-4">
               
-              <h4 class="text-base text-black font-bold mt-2">Men's</h4>
+              <h4 class="text-base text-black font-bold mt-2">Men’s</h4>
             </div>
           </div>
 
